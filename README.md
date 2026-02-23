@@ -93,6 +93,10 @@ None of these systems existed. Now they do.
 
 ---
 
+## Use Cases & How-To Guide
+
+New here? Read the **[Use Cases & How-To Guide](USE-CASES.md)** for real-world scenarios and step-by-step instructions for every repo.
+
 ## Contributing
 
 Every repo accepts contributions. If you find edge cases, improve a schema, add a template for a new industry, or build an integration, submit a PR. See the CONTRIBUTING.md in each repo for guidelines.
